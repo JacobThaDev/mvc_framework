@@ -1,0 +1,8 @@
+/vendor/
+app/cache/*.json
+app/cache/**/*.json
+**/config.php
+.idea/*
+.history/*
+sitemap.xml
+robots.txt
