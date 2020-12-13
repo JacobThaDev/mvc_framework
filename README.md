@@ -7,7 +7,7 @@ Requirements
 - Composer
 - Apache web server
 
-```I do not using Nginx so if you need rules you'll have to write them yourself.```
+```I do not use Nginx so if you need rules you'll have to write them yourself.```
 
 Config file is located at `app/config.php`
 
