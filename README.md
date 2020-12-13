@@ -1,5 +1,6 @@
 # mvc_framework
-A small PHP MVC Framework using composer for dependency management
+A small PHP MVC Framework using composer for dependency management. 
+Uses [Twig](https://twig.symfony.com/) for the template engine, and [Eloquent ORM](https://laravel.com/docs/7.x/eloquent). 
 
 Requirements
 - PHP 7.2+
